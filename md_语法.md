@@ -72,7 +72,6 @@ You can create footnotes like this[^footnote].
 
 ## URLs
 * 直接插入链接/以链接方式显示出来
-<lujun@cmhi.chinamobile.com>
 <https://www.baidu.com>
 
 ## 图片
